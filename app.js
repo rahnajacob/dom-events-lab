@@ -24,3 +24,11 @@ buttons.forEach((button) => {
     }) 
 })
 /*-------------------------------- Functions --------------------------------*/
+// if (button.innerText === "+" || button.innerText === "-" || button.innerText === "/" || button.innerText === "*") {
+//     check for prevClick includes button.innerText;
+//     if (prevClick = true) {
+//         ignore button.innerText}
+//     else display.innerText += button.innerText
+// }
+
+//Note to Iury/Sam: I didn't read the whole labs document before getting started, so I didn't see that the HTML file was already provided - which is why mine is structured like this
